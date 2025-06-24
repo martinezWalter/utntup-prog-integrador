@@ -1,6 +1,6 @@
 # Algoritmos de búsqueda y ordenamiento
 
-👉 [Video explicativo](https://youtu.be/umUIG_6rQ7w)
+👉 [Video explicativo](https://youtu.be/c9_u2CKYK9k)
 
 ## Introducción
 Los algoritmos de búsqueda y ordenamiento son fundamentales para el procesamiento eficiente de datos. Estos algoritmos permiten organizar la información de forma que se facilite su consulta, análisis o modificación, optimizando así el rendimiento.  
